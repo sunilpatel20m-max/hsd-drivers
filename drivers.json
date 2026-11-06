@@ -1,0 +1,16 @@
+{
+  "version": "0.1.1",
+  "minRequiredVersion": "0.1.1",
+  "engine": {
+    "name": "hsd.exe",
+    "size": 21595136,
+    "sha256": "caaba992530dab77afef5962699b6da6ee2165e9a1fb6afd12f4fc0ae4f31053",
+    "url": "https://github.com/sunilpatel20m-max/hsd-drivers/releases/download/v36/hsd.exe"
+  },
+  "decoder": {
+    "name": "hsd-decoder.exe",
+    "size": 3206656,
+    "sha256": "6c58e654beb88004e7f944c36c9cc68b89a97d99df82e3c6d18961267e32ba0e",
+    "url": "https://github.com/sunilpatel20m-max/hsd-drivers/releases/download/v36/hsd-decoder.exe"
+  }
+}
